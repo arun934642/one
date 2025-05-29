@@ -11,6 +11,6 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 // Form submission handling
 document.getElementById('contact-form').addEventListener('submit', function (e) {
   e.preventDefault();
-  alert('Thank you ra pukesh.');
+  alert('Thank you arunkumar donthula.');
   this.reset();
 });
